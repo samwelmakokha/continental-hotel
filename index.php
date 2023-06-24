@@ -118,7 +118,7 @@
             <!-- <label for="category">Category</label></br> -->
             <span>Category:</span>
             <select name="" id="">
-              <option value="italian">Select Preference</option>
+              <option value="italian">Select your Preference</option>
 
               <?php
               $query = "SELECT * FROM dinner";
